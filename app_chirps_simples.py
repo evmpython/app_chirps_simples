@@ -1,5 +1,6 @@
 import streamlit as st
-import geemap.foliumap as geemap  # Importação correta para Streamlit
+#import geemap.foliumap as geemap  # Importação correta para Streamlit
+import geemap
 import ee
 
 # Inicializar o Google Earth Engine
